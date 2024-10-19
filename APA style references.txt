@@ -1,0 +1,9 @@
+Flanagan, D. (2020). JavaScript: The definitive guide: Master the world's most-used programming language (7th ed.). O'Reilly Media.
+
+Freeman, E., Robson, E., Bates, B., & Sierra, K. (2014). Head first JavaScript programming. O'Reilly Media.
+
+Duckett, J. (2014). JavaScript and jQuery: Interactive front-end web development. John Wiley & Sons.
+
+Haverbeke, M. (2018). Eloquent JavaScript: A modern introduction to programming (3rd ed.). No Starch Press.
+
+Osmani, A. (2012). Learning JavaScript design patterns. O'Reilly Media.
